@@ -1,0 +1,32 @@
+{
+  "name": "eva-js",
+  "version": "1.0.0",
+  "description": "EVA - Email Validator JavaScript Plugin!",
+  "main": "src/script.js",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "keywords": [
+    "email",
+    "validator",
+    "javascript",
+    "trust",
+    "ajax",
+    "rule",
+    "api",
+    "squarebit",
+    "eva",
+    "email_validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/square-bit/eva-js.git"
+  },
+  "author": "Squarebit <contact@square-bit.com>",
+  "homepage": "https://e-va.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/square-bit/eva-js/issues"
+  },
+}
