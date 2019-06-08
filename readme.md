@@ -5,7 +5,9 @@ EVA (short for Email Validator) is a validation tool aimed at keeping your platf
 This plugin for Javascript provides an easy 3 step integration to get you set and running in no time:
 
 1 - Download and install it in your Javascript system
+
 2 - Create and account at [https://e-va.io](https://e-va.io) and generate an API Key
+
 3 - Configure this module with the newly generated API KEY.
 
 That's it. Your Javascript system is now able to keep those fake email accounts at bay.
