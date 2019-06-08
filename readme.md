@@ -28,7 +28,7 @@ EVA_API_KEY = 'YOUR_PUBLIC_API_KEY_HERE';
 
 </script>
 
-<script async type="text/javascript" src="cdn_JS"></script>
+<script async type="text/javascript" src="https://cdn.jsdelivr.net/gh/square-bit/eva-js@0.1/src/script.min.js"></script>
 ```
 
 >## Important Notes:
