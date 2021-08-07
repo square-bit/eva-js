@@ -2,7 +2,7 @@
 
 EVA (short for Email Validator) is a validation tool aimed at keeping your platforms free from fake or disposable email accounts.
 
-This plugin for Javascript provides an easy 3 step integration to get you set and running in no time:
+This plugin for Javascript provides an easy 3-step integration to get you set and running in no time:
 
 1 - Download and install it in your Javascript system
 

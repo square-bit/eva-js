@@ -55,7 +55,7 @@ window.addEventListener('load', function () {
 
   function makeRequest(email, callback) {
     if (email) {
-      var url = 'http://eva.drupyons.com/api/email/validate/' + email;
+      var url = 'https://e-va.io/api/email/validate/' + email;
       var EVA_TIMEOUT_SECONDS = EVA_TIMEOUT_SECONDS || 3;
 
       let xhr = new XMLHttpRequest();
